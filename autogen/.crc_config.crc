@@ -1,0 +1,12 @@
+#CRC Codes for initially generated config files -- do not modify!
+#Fri May 14 19:08:03 WIB 2021
+sl_mx25_flash_shutdown_usart_config.h=-745910381
+sl_i2cspm_oled_config.h=-98319874
+sl_device_init_lfxo_config.h=-720010014
+sl_device_init_hfxo_config.h=999828789
+sl_board_control_config.h=1520157110
+sl_device_init_dcdc_config.h=540536968
+sl_memory_config.h=-995392215
+sl_iostream_usart_vcom_config.h=1461939972
+sl_device_init_emu_config.h=1414330218
+ustimer_config.h=487428516
